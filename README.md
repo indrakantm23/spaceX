@@ -1,8 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
+
+### To access it online
+
+Use (https://spacexbyindrakant.web.app/) to access deployed application
+
 
 ### `npm start`
 
@@ -25,7 +28,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `firebase deploy`
+
+Use `firebase deploy` to deploy the app to firebase
 
 ### `npm run eject`
 

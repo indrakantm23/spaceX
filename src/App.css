@@ -13,6 +13,7 @@ body{
   padding: 3px 10px;
   border-radius: 2px;
   margin: 5px 15px;
+  cursor: pointer;
   font-size: 12px;
 }
 
@@ -122,14 +123,16 @@ aside h3{
   }
   .container{
     margin-bottom: 15px;
-    width: 100%;
+    width: 100% !important;
   }
   .sub-container{
     display: block;
     margin: 0 auto;
-    width: 250px;
     padding: 0 20px;
     margin-bottom: 10px;
+    width: 45%;
+    height: 370px;
+    /* width: 70% !important; */
   }
 
 }
